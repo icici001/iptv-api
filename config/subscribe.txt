@@ -26,6 +26,15 @@ https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/icici001/TV/refs/heads/main/TV.m3u
+https://raw.githubusercontent.com/icici001/TV/refs/heads/main/0223.m3u
+https://raw.githubusercontent.com/icici001/TV/refs/heads/main/AA.m3u
+https://raw.githubusercontent.com/icici001/TV/refs/heads/main/TWTV.m3u
+https://raw.githubusercontent.com/icici001/iptv1/refs/heads/main/4gtv.m3u
+https://raw.githubusercontent.com/icici001/iptv1/refs/heads/main/Go-4gtv.m3u
+https://raw.githubusercontent.com/icici001/iptv1/refs/heads/main/litv.m3u
+https://raw.githubusercontent.com/icici001/iptv1/refs/heads/main/logo-smart.m3u
+https://raw.githubusercontent.com/icici001/iptv1/refs/heads/main/smart.m3u
+https://raw.githubusercontent.com/icici001/iptv1/refs/heads/main/smartbeiyong.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
